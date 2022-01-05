@@ -1,7 +1,7 @@
 <h2>Olá, eu sou o Pedro! Seja bem-vindo(a) ao meu GitHub!:wave: </h2>
 
 <p>:desktop_computer: Desenvolvedor back-end</p>
-<p>:mag_right: Estudando Aplicações Web Com Java</p>
+<p>:mag_right: Estudando API's com SprigBoot</p>
 <p>:rocket: Voando cada vez mais alto</p>
 
 <div>
