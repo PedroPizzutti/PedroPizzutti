@@ -6,7 +6,9 @@
 
 <div>
   <h2>Tecnologias e Ferramentas</h2>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPizzutti)](https://github.com/anuraghazra/github-readme-stats)
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroPizzutti"/>
+  </picture>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPizzutti&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
