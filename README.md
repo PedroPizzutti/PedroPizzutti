@@ -7,7 +7,7 @@
 <div>
   <h2>Tecnologias e Ferramentas</h2>
   <picture>
-    <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=PedroPizzutti"/>
+    <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=PedroPizzutti&show_icons=true&theme=dark#gh-dark-mode-only"/>
     <img height="140em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=PedroPizzutti&layout=compact&langs_count=7&theme=dark"/>
   </picture>
 </div>
