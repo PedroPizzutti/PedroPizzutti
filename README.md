@@ -12,8 +12,9 @@
   <h2>Tecnologias e Ferramentas</h2>
   <h4>Trabalho</h4>
   <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=for-the-badge&logo=Delphi"/>
-  <img src="https://img.shields.io/badge/-Object%20Pascal-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Object%20Pascal-FF8C00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-PLSQL-purple?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Horse-FF4500?style=for-the-badge"/>
   <img src ="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tortoise SVN-blue?style=for-the-badge&logo=blank&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
