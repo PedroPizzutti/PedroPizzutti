@@ -2,10 +2,15 @@
 
 <div>
   <p>
-    :computer: Atualmente tenho trabalhado com a construção e manutenção de APIs e ERPs </br>
-    :blue_book: Tenho estudado a construção de APIs e seu consumo em aplicações de front-end</br>
+    :computer: Atualmente tenho trabalhado com a construção e manutenção de APIs e ERPs. </br>
+    :blue_book: Tenho estudado a construção de APIs e seu consumo em aplicações de front-end.</br>
     :closed_book: Além de tudo, estou terminando meu doutorado em Filosofia!
   </p>
+</div>
+
+<div>
+  <h2>Tecnologias e Ferramentas</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
 <div>
