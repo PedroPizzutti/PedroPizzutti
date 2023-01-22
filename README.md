@@ -10,7 +10,10 @@
 
 <div>
   <h2>Tecnologias e Ferramentas</h2>
-  <img src="https://img.shields.io/badge/-Delphi-red?style=for-the-badge&logo=Delphi"/>
+  <img src="https://img.shields.io/badge/-Delphi-FF0000?style=for-the-badge&logo=Delphi"/>
+  <img src ="https://img.shields.io/badge/-Oracle-purple?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src=""/>
+  
   
 </div>
 </br>
