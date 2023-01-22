@@ -10,7 +10,7 @@
 
 <div>
   <h2>Tecnologias e Ferramentas</h2>
-  <img src="https://icons8.com.br/icon/105446/ide-do-delphi"/>
+  <img src="https://img.shields.io/badge/-Delphi-red?style=for-the-badge&logo=Delphi"/>
   
 </div>
 </br>
