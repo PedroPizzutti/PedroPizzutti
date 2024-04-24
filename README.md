@@ -4,7 +4,6 @@
   <p>
     :computer: Atualmente tenho trabalhado com a construção e manutenção de APIs e ERPs. </br>
     :blue_book: Tenho estudado a construção de APIs e seu consumo em aplicações de front-end.</br>
-    :closed_book: Além de tudo, estou terminando meu doutorado em Filosofia!
   </p>
 </div>
 
