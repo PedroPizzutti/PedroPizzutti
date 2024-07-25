@@ -11,8 +11,7 @@
   <h2>Tecnologias e Ferramentas</h2>
   <h4>Principais</h4>
   <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=for-the-badge&logo=Delphi"/>
-  <img src="https://img.shields.io/badge/-Object%20Pascal-FF8C00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Horse-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-HORSE-FF4000?logo=delphi&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-PLSQL-purple?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src ="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
@@ -22,6 +21,8 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   
   <h4>Secundárias</h4>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
