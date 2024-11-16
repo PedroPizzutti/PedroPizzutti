@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu GitHub! 🚀
 ---
 
 ## 🧑‍💻 Sobre Mim  
-Sou um **filósofo de formação**, com doutorado obtido em 2024, mas minha grande vocação na Filosofia sempre foi a **Lógica**, área à qual me dediquei durante toda minha trajetória acadêmica. Desde 2022, no entando, apaixonei-me por linguagens de programação e a área do desenvolvimento de software. Hoje, tenho a oportunidade de unir esses três grandes amores em meu trabalho como **desenvolvedor backend**, no qual posso impactar vidas através de linhas de código.
+Sou um **filósofo de formação**, com doutorado obtido em 2024, mas minha grande vocação na Filosofia sempre foi a **Lógica**, área à qual me dediquei durante toda minha trajetória acadêmica. Desde 2022, no entando, apaixonei-me por linguagens de programação e a área do desenvolvimento de software. Hoje, tenho a oportunidade de unir essas três paixões em meu trabalho como **desenvolvedor backend**, no qual posso impactar vidas através de linhas de código.
 
 ---
 
