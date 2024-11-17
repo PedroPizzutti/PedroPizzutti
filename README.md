@@ -43,5 +43,7 @@ Se quiser trocar ideias, discutir projetos ou colaborar, aqui estão minhas rede
 
 ---
 
+![Snake animation](https://github.com/PedroPizzutti/PedroPizzutti/blob/output/github-contribution-grid-snake.svg)
+
 ## 🙌 Obrigado pela Visita!  
 Espero que tenha gostado do meu perfil. Fique à vontade para explorar meus repositórios ou entrar em contato. 🚀  
