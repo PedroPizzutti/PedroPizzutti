@@ -27,10 +27,10 @@ Aqui estão as tecnologias que uso e estudo no dia a dia:
 
 ## 📊 Estatísticas do GitHub  
 ### Principais Linguagens Utilizadas  
-![Top Langs](https://github-readme-stats-git-master-pedro-pizzuttis-projects.vercel.app/api/top-langs/?username=PedroPizzutti&layout=compact&langs_count=7&theme=dracula)  
+![Top Langs](https://github-readme-stats-git-master-pedro-pizzuttis-projects.vercel.app/api/top-langs/?username=PedroPizzutti&layout=compact&langs_count=7&theme=midnight-purple)  
 
 ### Minhas Contribuições  
-![GitHub Stats](https://github-readme-stats-git-master-pedro-pizzuttis-projects.vercel.app/api?username=PedroPizzutti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats-git-master-pedro-pizzuttis-projects.vercel.app/api?username=PedroPizzutti&show_icons=true&theme=midnight-purple)  
 
 ---
 
