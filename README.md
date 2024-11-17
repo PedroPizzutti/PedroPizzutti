@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Pedro Pizzutti!  
-Bem-vindo(a) ao meu GitHub! 🚀  
+Bem-vindo(a) ao meu GitHub! 🚀
 
 ---
 
@@ -42,8 +42,6 @@ Se quiser trocar ideias, discutir projetos ou colaborar, aqui estão minhas rede
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropizzutti/)  
 
 ---
-
-![Snake animation](https://github.com/PedroPizzutti/PedroPizzutti/blob/output/github-contribution-grid-snake.svg)
 
 ## 🙌 Obrigado pela Visita!  
 Espero que tenha gostado do meu perfil. Fique à vontade para explorar meus repositórios ou entrar em contato. 🚀  
