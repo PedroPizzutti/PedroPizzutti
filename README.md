@@ -12,7 +12,7 @@ Sou filósofo de formação, com doutorado obtido em 2024, mas minha grande voc
 Aqui estão as tecnologias que uso e estudo no dia a dia:
 
 - **Backend Development:**  
-  ![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=for-the-badge&logo=Delphi) ![HORSE](https://img.shields.io/badge/-HORSE-FF4000?logo=delphi&style=for-the-badge) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=for-the-badge&logo=Delphi) ![HORSE](https://img.shields.io/badge/-HORSE-FF4000?logo=delphi&style=for-the-badge)  
 
 - **Banco de Dados:**  
   ![PLSQL](https://img.shields.io/badge/-PLSQL-purple?style=for-the-badge&logo=oracle&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
